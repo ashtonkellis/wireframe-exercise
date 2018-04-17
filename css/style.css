@@ -4,7 +4,7 @@
 }
 
 body {
-  width: 900px;
+  width: 960px;
 }
 
 /* HEADER */
@@ -30,4 +30,13 @@ nav ul {
 }
 
 /* HERO IMAGE */
+#hero {
+  margin-bottom: 30px;
+}
 
+/* SUB BANNER */
+.sub-banner {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
