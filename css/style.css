@@ -1,3 +1,33 @@
 * {
   border: 1px solid red;
+  box-sizing: border-box;
 }
+
+body {
+  width: 900px;
+}
+
+/* HEADER */
+header {
+  height: 70px;
+  width: 100%;
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+
+nav {
+  height: 100%;
+  width: 100%;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+
+/* HERO IMAGE */
+
