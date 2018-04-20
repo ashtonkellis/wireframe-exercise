@@ -3,7 +3,6 @@
 }
 
 body {
-  width: 960px;
   font-family: sans-serif;
 }
 
@@ -29,6 +28,12 @@ nav ul {
   height: 100%;
   width: 100%;
   color: lightgrey;
+}
+
+/* MAIN */
+main {
+  width: 960px;
+  margin: auto;
 }
 
 /* HERO IMAGE */
